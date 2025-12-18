@@ -7,3 +7,8 @@ This repository contains the 4th-year project developed by the students:
 - Yuri Freitas Angelo Toledo
 
 [document link](./PublicReport.pdf)
+
+
+
+# Modulo 2
+[document link](./Public%20Report%20Modulo%202.pdf)
