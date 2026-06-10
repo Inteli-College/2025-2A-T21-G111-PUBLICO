@@ -22,10 +22,9 @@ The project was developed across four thematic modules, each producing a public 
 | **Module 2** | Solution Conception and MVP Development | [Public Report — Module 2](./modulo2/Public%20Report%20Modulo%202.pdf) |
 | **Module 3** | Productization, Technical Validation, and Commercial Structuring | [Public Report — Module 3 (PDF)](./modulo3/Public%20Report%20Modulo%203.docx.pdf) · [Word](./modulo3/Public%20Report%20Modulo%203.docx) |
 | **Module 4** | Multi-Tenant Productization and Commercial Scaling | [Public Report — Module 4 (Word)](./modulo4/Public_Report_Modulo_4.docx) |
-| **Final (extended)** | Consolidated full-project report — TCC delivery | [**Final Report — Extended (Word)**](./Public_Report_Final_Extended.docx) |
-| **Final (summary)** | Consolidated full-project report — executive | [Final Report — Summary (Word)](./Public_Report_Final.docx) · [Markdown](./Public_Report_Final.md) |
+| **Final** | Consolidated full-project report — TCC delivery | [**Final Report (PDF)**](./Public_Report_Final.pdf) · [Word](./Public_Report_Final.docx) |
 
-> The **extended final report** ([`Public_Report_Final_Extended.docx`](./Public_Report_Final_Extended.docx)) is the recommended document for the TCC delivery: it consolidates the four modules, adds a **Results and Evidence** section (operational telemetry, market sizing, and value-based pricing), a **Limitations and Future Work** section, and figures (Business Model Canvas, Value Proposition Canvas, conceptual multi-tenant architecture, and design system). The shorter summary version is available for a quick executive overview.
+> The **final consolidated report** ([`Public_Report_Final.pdf`](./Public_Report_Final.pdf) / [`.docx`](./Public_Report_Final.docx)) is the main document for the TCC delivery: it consolidates the four modules, adds a **Results and Evidence** section (operational telemetry, market sizing, and value-based pricing), a **Limitations and Future Work** section, and figures (Business Model Canvas, Value Proposition Canvas, conceptual multi-tenant architecture, and the design system).
 
 ---
 
